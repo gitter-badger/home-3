@@ -62,7 +62,19 @@ I feel that before I [went into Ballina](/BallinaTrip/2015), I was putting the a
  
 But still the forum and website were critical in getting me to an understanding that allowed the ‘last mile’ simple clarifications of Richard, Vineeto and Peter to be understood.
  
-**Actualism Method**: Fully feel the bad feelings sans defensiveness, supression or any actualist shouldism. Then once you’ve felt all the feelings fully (and any reactions to those feelings also) its way easier to make a sincere informed choice to prefer feel good and see the silliness. Just like choosing your favourite ice-cream flavor. You naturally see the silliness and aren’t kidding yourself. Keep doing that each moment again – that’s it! Realise that it is good to feel good. 
+**Actualism Method**: Its all about feeling good all the time. The moment you pick up you aren't feeling good then there's work to be done. In this case fully feel the bad feelings sans defensiveness, supression or any 'shouldism' (i.e. I should be feeling good damn me!). Then once you’ve felt all the feelings fully - and any reactions to those feelings also - like shame or wanting to suppress, its easier to make a sincere informed choice to prefer feel good and see the silliness. Its just like choosing your favourite ice-cream flavor. You naturally see the silliness of continuing to feel bad. That’s it! Realise that it is good to feel good.
+
+If you are struggling with this don't worry. It does take a fair bit of effort and practise - especially at the start. After-all you are going against a lot of natural and personal conditioning. Keep the following things in mind and it will make things easier:
+
+1) Persistence and consistency is key. The more you do this the easier it will become and the more momentum you'll build.
+
+2) As the others have mentioned - Be as precise as possible with when exactly your mood dipped, what caused it, what emotions were experienced.
+
+3) Find out how you started feeling good again. Make a mental note re: this. We spendless endless hours probing how and why we feel bad but rarely examining when and how we started to feel good. 
+
+4) Read the AFT website to give yourself context in which to situated this simple practise. Understand the 'Big Picture' that is Actual Freedom.
+
+5) Understand experientialy that there is only this moment. Realise that past and future don't exist. This takes work too as 'past' and 'future' are very compelling illusions. Spend time contemplating this until you get it and don't just adopt any new-agey beliefs e.g. 'the power of now'      
  
 Sure its not always easy but realizing that feeling good is just a mild happiness, a mild contentment as opposed to some tremendous happiness (that would be feeling great) – just  makes things a 100 times easier.  Like Adam said one morning ‘You need to have really low standards for feeling good’.  A bit of contentment and you go ‘I’ll take that! I like it’. Taking the actualist ethic out of it and just being honest about all your feelings also makes it way easier.
  
