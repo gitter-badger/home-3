@@ -9,8 +9,8 @@ The primary aim of this wiki is to allow practicing [actualists](http://actualfr
 ## List of pages
 
 * [Method](/Method) - the actualism method as described by individual practioners
-* [Ballina Trip 2015](/2015BallinaTrip) - report of the 2015 Ballina trip
-* [Ballina Trip 2013](/2013BallinaTrip) - report of the 2013 Ballina trip
+* [Ballina Trip 2015](/BallinaTrip/2015) - report of the 2015 Ballina trip
+* [Ballina Trip 2013](/BallinaTrip/2013) - report of the 2013 Ballina trip
 
 ## FAQ
 
