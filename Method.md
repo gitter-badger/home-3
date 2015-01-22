@@ -62,19 +62,19 @@ I feel that before I [went into Ballina](/BallinaTrip/2015), I was putting the a
  
 But still the forum and website were critical in getting me to an understanding that allowed the ‘last mile’ simple clarifications of Richard, Vineeto and Peter to be understood.
  
-**Actualism Method**: Its all about feeling good all the time. The moment you pick up you aren't feeling good then there's work to be done. In this case fully feel the bad feelings sans defensiveness, supression or any 'shouldism' (i.e. I should be feeling good damn me!). Then once you’ve felt all the feelings fully - and any reactions to those feelings also - like shame or wanting to suppress, its easier to make a sincere informed choice to prefer to feel good and see the silliness. Its just like choosing your favourite ice-cream flavor. You naturally see the silliness of continuing to feel bad. That’s it! Realise that it is good to feel good.
+**Actualism Method**: Its all about feeling good all the time. The moment you pick up you aren't feeling good then there's work to be done. In this case, fully feel the bad feelings without defensiveness, supression, shame or 'shouldism': i.e. I should be feeling good damn me! Then once you’ve felt all the feelings fully - and acknowledged any of the above mentioned reactions to those feelings also - its easier to make a sincere informed choice to prefer feel good and see the silliness. Its just like choosing your favourite ice-cream flavor. You naturally see the silliness of continuing to feel bad. That’s it! Realise that it is good to feel good.
 
 If you are struggling with this don't worry. It does take a fair bit of effort and practise - especially at the start. After-all you are going against a lot of natural and personal conditioning. Keep the following things in mind and it will make things easier:
 
 1) Persistence and consistency is key. The more you do this the easier it will become and the more momentum you'll build.
 
-2) As the others have mentioned - Be as precise as possible with when exactly your mood dipped, what caused it, what emotions were experienced.
+2) As the others have mentioned - Be as precise as possible with when exactly your mood dipped, what caused it and what emotions were experienced.
 
-3) Find out how you started feeling good again. Make a mental note re: this. We spendless endless hours probing how and why we feel bad but rarely examining when and how we started to feel good. 
+3) Find out how you started feeling good again. Make a mental note re: this. We spendless endless hours probing how and why we feel bad but rarely examine when and how we started to feel good. 
 
-4) Read the AFT website to give yourself context in which to situated this simple practise. Understand the 'Big Picture' that is Actual Freedom and how amazing and radical it is. Understand the potency of feeling good and where it can lead.
+4) Read the AFT website to give yourself context in which to situate this simple practise. Understand the 'Big Picture' that is Actual Freedom and how amazing and radical 'The Wide and Wondrous Path' is. Understand the potency of feeling good and where it can lead.
 
-5) Understand experientialy that there is only this moment. Realise that past and future don't exist. This takes work too as 'past' and 'future' are very compelling illusions. Spend time contemplating this until you get it and don't just adopt any new-agey beliefs e.g. 'the power of now'.
+5) Understand experientialy that there is only this moment. Realise that past and future don't exist. This takes work too, as 'past' and 'future' are very compelling illusions. Spend time contemplating this until you get it and don't just adopt any new-agey beliefs e.g. 'the power of now'.
 
 6) If you are having difficulty seeing the silliness, 9 times out of 10 it is because the bad feelings are too strong and compelling. You will need to **get back to feeling neutal first**. Don't try and be a hero with tackling feelings, it will not work and you will just lose motivation. Getting to neutral can be a suprsingly easy and effective strategy as boring as it sounds! From there move to feeling good. From this position you'll have a lot more clarity and space to see why you felt bad and how you felt good.  
  
