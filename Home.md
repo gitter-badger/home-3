@@ -18,7 +18,7 @@ If you have any other questions, post them in the Yahoo! list.
 
 * **How do I edit this site?**: See the "Edit" and "New" buttons above? They appear on any page. Click the former to edit the current page you are viewing; click the latter to create a whole new page.
 
-* **Anyone can edit??**: Yes. There are [ways](https://github.com/gollum/gollum/wiki/Using-Gollum-with-Rack) to require login for edits. Srid will consider implementing them in the event of vandalism.
+* **Anyone can edit??**: Yes. There are [ways](https://github.com/gollum/gollum/wiki/Using-Gollum-with-Rack) to require login for edits. Srid will consider implementing them in the event of [excessive vandalism](/Meta/VandalismLog).
 
 * **How reliable is this site?**: All content is backed up, and periodically synced to GitHub. In the event of loss (such as the previous Discourse forum, which wasn't being backed up), the last known state (usually no more than 24 hours) can be resurrected. 
 
