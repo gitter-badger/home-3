@@ -6,7 +6,6 @@
 
 ### Claudiu
 
-"Thou shalt feel good"
+https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18834
 
 ## Solution
-
