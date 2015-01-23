@@ -9,5 +9,5 @@ ENV VIRTUAL_HOST www.actualists.net
 
 VOLUME /wiki
 WORKDIR /wiki
-CMD ["gollum", "--config", "config.rb", "--port", 80, "--live-preview", "--template-dir", "/wiki/templates"]
+CMD ["gollum", "--config", "config.rb", "--port", 80, "--live-preview"]
 EXPOSE 80
