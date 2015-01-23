@@ -1,0 +1,5 @@
+[**RICHARD**](http://actualfreedom.com.au/richard/selectedcorrespondence/sc-fear.htm): There is always a thrilling aspect to fear – though the terrifying part usually grabs most attention – thus if one can focus on the thrill then the energy previously fuelling terror is channelled into the thrill of meeting one’s destiny.
+It is all a matter of attention – total attention – plus a steadfast pure intent.
+
+[**The Human Amygdala and the Induction and Experience of Fear**](http://www.sciencedirect.com/science/article/pii/S0960982210015083)
+_[SM] never reported experiencing any elevations in fear [in the haunted house], and her fear ratings were at [level] 0 throughout. She did, however, report feeling a high level of excitement and enthusiasm. When asked to elaborate, she said her excitement was similar to the feeling she gets while riding on a rollercoaster, an activity she claims to enjoy. In sum, SM was highly aroused by the haunted house, but did not feel any sense of fear, showed no signs of nervousness or apprehension while walking through dark passageways, and was never visibly frightened by any of the numerous attempts to scare her._
