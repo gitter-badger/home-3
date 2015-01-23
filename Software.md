@@ -1,4 +1,4 @@
 ## Tracking feelings
 
 * [Optimism App](http://www.findingoptimism.com) -- Not good.
-* [iMoodJournal iPhone app](http://www.inexika.com/imood) -- _being evaluated by Srid_
+* [iMoodJournal iPhone app](http://www.inexika.com/imood) -- _being evaluated by Srid_ (so far good)
