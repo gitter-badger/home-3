@@ -2,6 +2,8 @@
 
 Below you will find the Actualism method described using the very words of the feeling beings themselves (cross-references to the relevant Yahoo! list post is recommended).
 
+[[_TOC_]]
+
 ## Adam H.
 
 (cf. [#18760](https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18760))
