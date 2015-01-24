@@ -4,7 +4,7 @@ FROM ruby
 
 RUN apt-get -y update && apt-get -y install libicu-dev cmake && apt-get clean
 RUN gem install --pre gollum gollum-rugged_adapter
-RUN gem install redcarpet 
+RUN gem install puma
 
 # To fix the following error:
 # Rugged::ConfigError - Config value 'user.name' was not found:
@@ -16,5 +16,5 @@ ENV VIRTUAL_HOST www.actualists.net
 
 VOLUME /wiki
 WORKDIR /wiki
-CMD ["gollum", "--config", "config.rb", "--port", 80, "--live-preview", "--adapter", "rugged"]
+CMD ["puma", "--port", 80]
 EXPOSE 80
