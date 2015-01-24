@@ -8,7 +8,7 @@ The primary aim of this wiki is to allow practicing [actualists](http://actualfr
 
 ## List of pages
 
-See [Files](/fileview) for the complete list of pages in this Wiki. [Method](/Method) contains the actualism method as described by individual practitioners; [Mistakes](/Mistakes) documents the commonly made mistakes. The current list of pages are:
+See [Pages](/pages) for the complete list of pages in this Wiki. [Method](/Method) contains the actualism method as described by individual practitioners; [Mistakes](/Mistakes) documents the commonly made mistakes. The current list of pages are:
 
 <<AllPages()>>
 
