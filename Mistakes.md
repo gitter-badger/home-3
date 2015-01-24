@@ -1,3 +1,5 @@
+In the same vein of [FAQ](http://actualfreedom.com.au/sundry/frequentquestions/faqindex.htm), [CRO](http://actualfreedom.com.au/sundry/commonobjections/croindex.htm) and [FFM](http://actualfreedom.com.au/sundry/floggedmisconceptions/ffmindex.htm): CEM (commonly encountered mistakes)
+
 [[_TOC_]]
 
 Note to editors: please keep the top-level titles (mnemonics to mistakes) short and simple for easy remembering and recall.
