@@ -1,6 +1,6 @@
 [[_TOC_]]
 
-Note to edits: please keep the top-level titles (mnemonics to mistakes) short and simple for easy remembering and recall.
+Note to editors: please keep the top-level titles (mnemonics to mistakes) short and simple for easy remembering and recall.
 
 ## Thou shalt feel good
 
