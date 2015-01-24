@@ -22,3 +22,8 @@ https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18730
 
 Srinath:
 > Sure its not always easy but realizing that feeling good is just a mild happiness, a mild contentment as opposed to some tremendous happiness (that would be feeling great) – just  makes things a 100 times easier.  Like Adam said one morning ‘You need to have really low standards for feeling good’.  A bit of contentment and you go ‘I’ll take that! I like it’. Taking the actualist ethic out of it and just being honest about all your feelings also makes it way easier.
+
+
+## Abstract Actualism
+
+Failing to pinpoint and investigate the exact causes of emotional reactions, and philosophizing in general about why it is silly to feel bad.
