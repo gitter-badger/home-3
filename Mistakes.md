@@ -26,4 +26,4 @@ Srinath:
 
 ## Abstract Actualism
 
-Failing to pinpoint and investigate the exact causes of emotional reactions, and philosophizing in general about why it is silly to feel bad.
+Failing to pinpoint and investigate the exact causes of emotional reactions, and philosophizing in general about why it is silly to feel bad. By being very specific and careful about why exactly you are feeling bad, you can be very specific about why it is silly to feel bad. This sort of specificity will make the investigation more "real" and it will have an effect on emotions not just intellect.
