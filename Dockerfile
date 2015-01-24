@@ -1,12 +1,10 @@
 FROM ruby
 
-RUN apt-get -y update && apt-get -y install libicu-dev
-RUN gem install gollum
-RUN gem install redcarpet org-ruby 
-
 # Install rugged adapter to fix https://github.com/gollum/gollum/issues/279
-RUN apt-get -y update && apt-get -y install cmake && apt-get clean
-RUN gem install --pre gollum-rugged_adapter
+
+RUN apt-get -y update && apt-get -y install libicu-dev cmake && apt-get clean
+RUN gem install --pre gollum gollum-rugged_adapter
+RUN gem install redcarpet 
 
 ENV VIRTUAL_HOST www.actualists.net
 
