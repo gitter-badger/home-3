@@ -1,5 +1,7 @@
 [[_TOC_]]
 
+Note to edits: please keep the top-level titles (mnemonics to mistakes) short and simple for easy remembering and recall.
+
 ## Thou shalt feel good
 
 "Thou shalt feel good" is an amusing way to phrase an "Actualist ethic" a practitioner has unwittingly taken on where they attempt to feel good only as an ethic while, deep down, continuing to choose to feel good or bad feelings.
@@ -14,13 +16,13 @@ https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18834
 
 ...
 
-## Over-complicating the actualism method
+## Not keeping it simple
 
 A practitioner may commonly end up avoiding the simplicity of the actualism method: feeling good each moment again.
 
 
 
-## Setting too high a standard for feeling good
+## Aiming too high
 
 https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18730
 
