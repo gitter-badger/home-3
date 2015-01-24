@@ -48,7 +48,7 @@ All of this – feeling good, great, happy, harmless, perfect – is done to eff
 Alright, so there is one another thing (which I had to learn only recently) I failed to emphasize in this summary of my understanding of the method. It is important to get back to feeling good *before* investigating and exploring the pinpointed issue that brought up the feeling. I find that if I go about investigating and exploring *while* feeling even slightly bad, some part of me is tacitly holding back (invested in the issue), thus making the whole enterprise futile leading to spiraling around the same old patterns. So, what do I do here?
 
   1. Catch myself no longer feeling good
-  2. What am I feeling now? Feeling bad (about <whatever>)
+  2. What am I feeling now? Feeling bad (about _whatever_)
   3. When was I feeling good last? A few seconds ago.
   4. Pinpoint the incident/ situation/ thoughts/ memories that triggered the bad feeling.
   5. Remind myself that I'll explore that in detail *after* getting back to feeling good.
