@@ -9,7 +9,7 @@ RUN gem install redcarpet
 # To fix the following error:
 # Rugged::ConfigError - Config value 'user.name' was not found:
 # 	/usr/local/bundle/gems/gollum-rugged_adapter-0.2b/lib/rugged_adapter/git_layer_rugged.rb:431:in `create'
-RUN git config --global user.name "Anonymous User"
+RUN git config --global user.name "Anonymous"
 RUN git config --global user.email "nobody@nobody.com"
 
 ENV VIRTUAL_HOST www.actualists.net
