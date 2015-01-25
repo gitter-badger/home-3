@@ -19,6 +19,10 @@ Deeply realizing that it would have been better to remain happy and harmless lea
 
 ## Alan
 
+The method I used is described at 
+http://actualfreedom.com.au/actualism/path2.htm
+Take particular note of the second last paragraph - it is up to each and every person to discover their own path and it will be different (to a greater or lesser extent) for every person.
+
 ## Claudiu
 
 ## Jon
