@@ -42,8 +42,15 @@ qualities, but not prioritizing feeling good each and every moment.
 
 <https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18879>
 
-> SHASHANK: [&#x2026;] the point is not to become an arbiter of authenticity
-of logic, but to experience the sensate world directly.
+> SRINATH (paraphrasing Richard's practical advice): [... Practice]
+being objective and fact based about objective material stuff e.g:
+research, news, events in life - you can bring the objectivity to your
+subjective inner world where it will be harder.  [...] Facts = logic +
+senses
+
+> SHASHANK: [... snip 112 words of philosophical thought ...] the point is
+not to become an arbiter of authenticity of logic, but to experience
+the sensate world directly.
 
 > SRID: Aren't you [aiming too high](http://www.actualists.net/Mistakes#aiming-too-high) soon by making it a point to
 experience the sensate world directly [instead of](https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18850) aiming to keep
