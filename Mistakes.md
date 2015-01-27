@@ -42,32 +42,32 @@ qualities, but not prioritizing feeling good each and every moment.
 
 <https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18879>
 
-SHASHANK: [&#x2026;] the point is not to become an arbiter of authenticity
+> SHASHANK: [&#x2026;] the point is not to become an arbiter of authenticity
 of logic, but to experience the sensate world directly.
 
-SRID: Aren't you [aiming too high](http://www.actualists.net/Mistakes#aiming-too-high) soon by making it a point to
+> SRID: Aren't you [aiming too high](http://www.actualists.net/Mistakes#aiming-too-high) soon by making it a point to
 experience the sensate world directly [instead of](https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18850) aiming to keep
 feeling good **no matter what**?
 
-SHASHANK: No I'm not because the said point to experience the sensate
+> SHASHANK: No I'm not because the said point to experience the sensate
 world is the final point. Ofcourse, I know very well, that if I have
 to reach the top of the mountain, I need to focus on the road - which
 is to feel good no matter what.
 
-CLAUDIU: Actually the final point is the same as the way to get there: 
+> CLAUDIU: Actually the final point is the same as the way to get there: 
 
-quotting RICHARD: Note: [&#x2026;] consistently enjoying and appreciating this
+>> RICHARD: Note: [&#x2026;] consistently enjoying and appreciating this
 moment of being alive is what the actualism method is. And this is
 because the actualism method is all about consciously and knowingly
 imitating life in the actual world. Also, by virtue of proceeding in
 this manner the means to the end – an ongoing enjoyment and
 appreciation – **are no different to the end itself**.
 
-The final point isn't to experience the sensate world. It is to enjoy
+> The final point isn't to experience the sensate world. It is to enjoy
 and appreciate being alive. Everything else is merely the best way to
 facilitate that.
 
-That is, you're not feeling good so down the line you can experience
+> That is, you're not feeling good so down the line you can experience
 the sensate world&#x2026; you're feeling good so that you can enjoy and
 appreciate being alive, and also somewhere down the line that will
 become experiencing the sensate world because that is more enjoyable
