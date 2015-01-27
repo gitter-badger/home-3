@@ -2,6 +2,7 @@
 
 * [Optimism App](http://www.findingoptimism.com) -- Not good.
 * [iMoodJournal iPhone/Android app](http://www.inexika.com/imood) -- _being evaluated by Srid_ (so far good)
+* [Google Forms](http://quantifiedself.com/2009/05/diy-mobile-self-tracker/) -- _being evaluated by Srid_ (just starting)
 
 ### What Srid uses
 
@@ -24,4 +25,3 @@ Srid uses the [iMoodJournal iPhone app](http://www.inexika.com/imood) to record 
   (setq actualism-timer
         (run-with-timer (actualism-delay-random) nil 'actualism-check)))
 ```
-
