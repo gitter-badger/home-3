@@ -45,7 +45,7 @@ qualities, but not prioritizing feeling good each and every moment.
 > SRINATH (paraphrasing Richard's practical advice): [... Practice]
 being objective and fact based about objective material stuff e.g:
 research, news, events in life - you can bring the objectivity to your
-subjective inner world where it will be harder. [... paraphrasing Claudiu:] Facts = logic + senses
+subjective inner world where it will be harder. [...] Facts = logic + senses
 
 > SHASHANK: [... snip 112 words of philosophical thought ...] the point is
 not to become an arbiter of authenticity of logic, but to experience
