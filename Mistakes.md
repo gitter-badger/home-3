@@ -51,7 +51,7 @@ subjective inner world where it will be harder. [...] Facts = logic + senses
 not to become an arbiter of authenticity of logic, but to experience
 the sensate world directly.
 
-> SRID: Aren't you [aiming too high](http://www.actualists.net/Mistakes#aiming-too-high) soon by making it a point to
+> SRID: Aren't you [aiming too high](http://www.actualists.net/Mistakes#aiming-too-high) too soon by making it a point to
 experience the sensate world directly [instead of](https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18850) aiming to keep
 feeling good **no matter what**?
 
