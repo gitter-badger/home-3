@@ -10,8 +10,6 @@ The primary aim of this wiki is to allow practicing [actualists](http://actualfr
 
 See [Pages](/pages) for the complete list of pages in this Wiki. [Method](/Method) contains the actualism method as described by individual practitioners; [Mistakes](/Mistakes) documents the commonly made mistakes. The current list of pages are:
 
-<<AllPages()>>
-
 ## FAQ
 
 If you have any other questions, post them in the Yahoo! list.
