@@ -27,6 +27,17 @@ Take particular note of the second last paragraph - it is up to each and every p
 
 ## Jon
 
+Know thoroughly what it is you are feeling now. Dubble and trippple check to see if you are repressing anything.  And if you are feeling good then note it and enjoy and apprecitate living life so easily.  If you are feeling bad then pinpoint the specific trigger, feel out the feeling completely, remember what feeling good felt like and then consciously ask which you would rather feel.  You can't will yourself to feel good but you can allow yourself to do so.  
+
+If it becomes clear that you prefer feeling worse than good then allow yourself that option because badgering yourself doesn't work. You may simply need more time to see for yourself that feeling worse isn't helpful.  If after ample time given and the feeling persist then consciuosly ask if you are induling the feeling.  And feel that question out.  Indulgence is a crafty to way to express a feeling without acting out or even thinking the thoughts that typically come with that feeling.  
+
+At all times, allow yourself to feel good.  Give yourself permission to feel good.  When the dark clouds separate and allow even the thinnest of a lone sun beam to enter, allow yourself to feel that slight warmth and from that position you will know with all of your being that feeling better is more sensible than feeling worse. 
+
+It comes highly recommended to regard your fellow human beings as being completely independent of you.  This will do several things.  It will free you from the burdens of morality.  Morality and felicity don't mix.  Fortunately seeing a human being as completely independent and every bit as interesting with every right to forge ahead as they see fit does away with the need for morality.  I'm not saying it will go away in one fell swoop (nor should it) but, firsthand, I am seeing how it's not necessary when I see the other as completely independent.   When it becomes evident that you aren't regarding them in that way, it will force you to feel yourself out fully to search for buried negativity.  In such times, I find it just under the surface and I have to concede that I have fallen below my baseline even if there is no specific trigger I can recall.  It just so happens that I had been fooling myself for an indertiminate amount of time. (I suspect that it's still a good idea to pinpoint a trigger for future reference.)
+
+It also allows life to happen much more spontaneously. Having fun and being unaffected becomes natural.  Everyone has a story and everyones mood becomes interesting.  Society is now more like a garden. I see everyone in ever changing states and as long as I don't take their moods and their other petty behaviors seriously then my life is more lively because of it.  I also see that the only way to help them is to feel good and regard them as completely independent human beings with a rightful place to be in whatever shared circumstances we find ourselves in.  Whenever I recognize that I don't feel good, I  often start by asking if I genuinly respect these people around me.
+
+
 ## Martin Potter
 
 (cf. [#18723](https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18723))
