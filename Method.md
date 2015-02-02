@@ -27,7 +27,7 @@ Take particular note of the second last paragraph - it is up to each and every p
 
 ## Jon
 
-Call it the method to get to the method: Know thoroughly what it is you are feeling now. Dubble and trippple check to see if you are repressing anything.  And if you are feeling good then note it and enjoy and apprecitate living life so easily.  If you are feeling bad then pinpoint the specific trigger, feel out the feeling completely, remember what feeling good felt like and then consciously ask which you would rather feel.  You can't will yourself to feel good but you can allow yourself to do so.  
+Call it the method to get to the method: Know thoroughly what it is, which you are feeling at this moment. Dubble and trippple check to see if you are repressing anything.  And if you are feeling good then note it and enjoy and apprecitate living life so easily.  If you are feeling bad then pinpoint the specific trigger, feel out the feeling completely, remember what feeling good felt like and then consciously ask which you would rather feel.  You can't will yourself to feel good but you can allow yourself to do so.  
 
 If it becomes clear, via continuing such, that you prefer feeling worse than good then allow yourself that option because badgering yourself doesn't work. You may simply need more time to see for yourself that feeling worse isn't helpful.  If after ample time given and the feeling persist then consciuosly ask if you are induling the feeling.  And feel that question out.  Indulgence is a crafty to way to express a feeling without acting out or even thinking the thoughts that typically come with that feeling.  
 
