@@ -25,3 +25,7 @@ Srid uses the [iMoodJournal iPhone app](http://www.inexika.com/imood) to record 
   (setq actualism-timer
         (run-with-timer (actualism-delay-random) nil 'actualism-check)))
 ```
+
+## Visualization
+
+https://www.kickstarter.com/projects/loosetooth/the-idea-shapers-drawing-as-your-best-thinking-too
