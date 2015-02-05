@@ -78,3 +78,7 @@ the sensate world&#x2026; you're feeling good so that you can enjoy and
 appreciate being alive, and also somewhere down the line that will
 become experiencing the sensate world because that is more enjoyable
 than not.
+
+## Not keeping one's hands in the pocket
+
+https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18981
