@@ -10,6 +10,8 @@ Note to editors: please keep the top-level titles (mnemonics to mistakes) short 
 
 Claudiu's report: https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/18834
 
+Its flip side is to arrogate feeling good for 'my' purposes: https://groups.yahoo.com/neo/groups/actualfreedom/conversations/messages/19003
+
 ## Not keeping it simple
 
 A practitioner may commonly end up avoiding the simplicity of the actualism method: feeling good each moment again.
