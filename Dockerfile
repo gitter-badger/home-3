@@ -16,5 +16,5 @@ ENV VIRTUAL_HOST www.actualists.net
 
 VOLUME /wiki
 WORKDIR /wiki
-CMD ["puma", "--port", 80]
+CMD ["puma", "--port", "80"]
 EXPOSE 80
